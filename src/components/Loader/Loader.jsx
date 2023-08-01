@@ -10,10 +10,7 @@ export const Loader = () => {
       }}
       wrapperClass=""
       color="cornflowerblue"
-      ariaLabel="three-circles-loading"
-      outerCircleColor=""
-      innerCircleColor=""
-      middleCircleColor=""
+      ariaLabel="circles-loading"
       visible={true}
       height={100}
       width={100}

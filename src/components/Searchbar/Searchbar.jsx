@@ -26,7 +26,6 @@ export class Searchbar extends Component {
           <input
             className="SearchForm_input"
             type="text"
-            autocomplete="off"
             placeholder="Search images and photos"
             value={this.state.searchTerm}
             onChange={this.handleChange}
